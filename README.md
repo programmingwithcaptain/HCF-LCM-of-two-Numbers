@@ -1,1 +1,1 @@
-# HCF-LCM-of-two-Numbers
+# HCF-and-LCM-of-two-Numbers
